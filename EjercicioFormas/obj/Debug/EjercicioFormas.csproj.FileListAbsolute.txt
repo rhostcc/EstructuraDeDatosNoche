@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\bin\Debug\EjercicioFormas.exe.config
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\bin\Debug\EjercicioFormas.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\bin\Debug\EjercicioFormas.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\obj\Debug\EjercicioFormas.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\obj\Debug\EjercicioFormas.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\obj\Debug\EjercicioFormas.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\EjercicioFormas\obj\Debug\EjercicioFormas.pdb

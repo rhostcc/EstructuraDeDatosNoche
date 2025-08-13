@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\bin\Debug\DemoArreglos.exe.config
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\bin\Debug\DemoArreglos.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\bin\Debug\DemoArreglos.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\obj\Debug\DemoArreglos.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\obj\Debug\DemoArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\obj\Debug\DemoArreglos.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\DemoArreglos\obj\Debug\DemoArreglos.pdb
