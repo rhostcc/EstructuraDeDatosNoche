@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clases\Navegador.cs" />
     <Compile Include="clases\Pila.cs" />
+    <Compile Include="clases\SSL.cs" />
+    <Compile Include="interfaces\INavegador.cs" />
     <Compile Include="interfaces\IPila.cs" />
+    <Compile Include="interfaces\ISSL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

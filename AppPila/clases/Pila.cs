@@ -30,20 +30,31 @@ namespace AppPila.clases
 
         public T Peek()
         {
+            if (IsEmpty())
+            {
+                throw new IndexOutOfRangeException("No se puede obtener, la pila esta vacia");
+            }
             return this._elementos[this._tope];
         }
 
         public T Pop()
         {
-            throw new NotImplementedException();
+            if(IsEmpty())
+            {
+                throw new IndexOutOfRangeException("Pila vacia, no se puede eliminar");
+            }
+            this._longitud--;
+            return this._elementos[this._tope--];
+            //T obj = this._elementos[this._tope];
+            //this._tope--;
+            //return obj;
         }
 
         public void Push(T element)
         {
-            if(IsFull())
+            if (IsFull())
             {
-                throw new IndexOutOfRangeException("La pila esta llena," +
-                    "no se pueden agregar elementos");
+                throw new IndexOutOfRangeException("La pila esta llena, no se pueden agregar elementos");
             }
             this._tope++;
             this._elementos[this._tope] = element;
