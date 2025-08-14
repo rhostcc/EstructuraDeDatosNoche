@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AppPila.formularios;
 
 namespace AppPila
 {
@@ -10,6 +11,8 @@ namespace AppPila
     {
         static void Main(string[] args)
         {
+            FormPrincipal formulario = new FormPrincipal();
+            formulario.ShowDialog();
         }
     }
 }

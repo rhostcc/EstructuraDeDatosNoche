@@ -20,7 +20,11 @@ namespace AppPila.clases
         }
         public string MostrarInformacion()
         {
-            throw new NotImplementedException();
+            if (this.Certificado == null)
+            {
+                return $"http://{this.URL}@{this.Contenido}";
+            }
+            return $"https://{this.URL}@{this.Contenido}";
         }
     }
 }
