@@ -29,13 +29,18 @@ namespace AppCola.clases
 
         public T Dequeue()
         {
-            if(IsEmpty())
+            if (IsEmpty())
             {
                 throw new IndexOutOfRangeException("Estructura vacia, no se puede quitar");
             }
             this._cantidad--;
-            return this._elementos[this._inicio++];
-
+            T aux = this._elementos[this._inicio];
+            this._inicio++;
+            if (this._inicio > this._total)
+            {
+                this._inicio = 0;
+            }
+            return aux;
         }
 
         public void Enqueue(T elemento)
@@ -46,6 +51,10 @@ namespace AppCola.clases
             }
             this._elementos[this._fin] = elemento;
             this._fin++;
+            if(this._fin > this._total)
+            {
+                this._fin = 0;
+            }
             this._cantidad++;
         }
 
