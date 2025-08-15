@@ -12,9 +12,11 @@ namespace AppPila.clases
         private T[] _elementos;
         private int _longitud;
         private int _tope;
-        public Pila(int longitud)
+        private int _total;
+        public Pila(int total)
         {
-            this._elementos = new T[longitud];
+            this._elementos = new T[total];
+            this._total = total;
             this._longitud = 0;
             this._tope = -1;
         }
@@ -25,7 +27,7 @@ namespace AppPila.clases
 
         public bool IsFull()
         {
-            return this._tope == this._longitud - 1;
+            return this._tope == this._total - 1;
         }
 
         public T Peek()

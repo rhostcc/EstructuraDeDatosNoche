@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,24 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "AppPila\\formularios\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
               "RelativeToolTip": "AppPila\\formularios\\FormPrincipal.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAzwCIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T01:33:21.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "AppPila\\formularios\\FormPrincipal.cs",
@@ -79,8 +103,7 @@
               "RelativeToolTip": "AppPila\\clases\\Navegador.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:30:20.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T00:30:20.861Z"
             },
             {
               "$type": "Document",
@@ -120,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\Program.cs",
               "RelativeDocumentMoniker": "AppPila\\Program.cs",
@@ -133,16 +156,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Pila.cs",
               "RelativeDocumentMoniker": "AppPila\\clases\\Pila.cs",
               "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Pila.cs",
               "RelativeToolTip": "AppPila\\clases\\Pila.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAlwCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T23:21:07.144Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
             }
           ]
         }

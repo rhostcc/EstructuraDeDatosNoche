@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\appcola\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apppila\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\clases\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\clases\\ssl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\clases\\ssl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\interfaces\\inavegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\interfaces\\inavegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\apppila\\interfaces\\issl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F9D0425-7BAF-4EA0-B6B8-EBFEDACCA4A9}|AppPila\\AppPila.csproj|solutionrelative:apppila\\interfaces\\issl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\appcola\\interfaces\\icola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\interfaces\\icola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,102 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "AppPila\\formularios\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
-              "RelativeToolTip": "AppPila\\formularios\\FormPrincipal.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAzwCIAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Cola.cs",
+              "RelativeDocumentMoniker": "AppCola\\clases\\Cola.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Cola.cs",
+              "RelativeToolTip": "AppCola\\clases\\Cola.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T01:33:21.232Z",
+              "WhenOpened": "2025-08-15T01:14:17.437Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "AppPila\\formularios\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AppPila\\formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T01:15:20.762Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Navegador.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Navegador.cs",
-              "RelativeDocumentMoniker": "AppPila\\clases\\Navegador.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Navegador.cs",
-              "RelativeToolTip": "AppPila\\clases\\Navegador.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:30:20.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SSL.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\SSL.cs",
-              "RelativeDocumentMoniker": "AppPila\\clases\\SSL.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\SSL.cs",
-              "RelativeToolTip": "AppPila\\clases\\SSL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:15:36.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ISSL.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\interfaces\\ISSL.cs",
-              "RelativeDocumentMoniker": "AppPila\\interfaces\\ISSL.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\interfaces\\ISSL.cs",
-              "RelativeToolTip": "AppPila\\interfaces\\ISSL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:12:54.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "INavegador.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\interfaces\\INavegador.cs",
-              "RelativeDocumentMoniker": "AppPila\\interfaces\\INavegador.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\interfaces\\INavegador.cs",
-              "RelativeToolTip": "AppPila\\interfaces\\INavegador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:07:34.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\Program.cs",
-              "RelativeDocumentMoniker": "AppPila\\Program.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\Program.cs",
-              "RelativeToolTip": "AppPila\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Title": "ICola.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\interfaces\\ICola.cs",
+              "RelativeDocumentMoniker": "AppCola\\interfaces\\ICola.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\interfaces\\ICola.cs",
+              "RelativeToolTip": "AppCola\\interfaces\\ICola.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T00:04:00.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pila.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Pila.cs",
-              "RelativeDocumentMoniker": "AppPila\\clases\\Pila.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppPila\\clases\\Pila.cs",
-              "RelativeToolTip": "AppPila\\clases\\Pila.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T23:21:07.144Z",
+              "WhenOpened": "2025-08-15T01:08:35.22Z",
               "EditorCaption": ""
             }
           ]

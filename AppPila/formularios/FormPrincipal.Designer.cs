@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.textURL = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textContenido = new System.Windows.Forms.TextBox();
-            this.checkSSL = new System.Windows.Forms.CheckBox();
             this.buttonPush = new System.Windows.Forms.Button();
+            this.checkSSL = new System.Windows.Forms.CheckBox();
+            this.textContenido = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textURL = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.textNavUrl = new System.Windows.Forms.TextBox();
             this.textNavContenido = new System.Windows.Forms.TextBox();
             this.buttonPop = new System.Windows.Forms.Button();
@@ -56,37 +56,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos de la pagina";
             // 
-            // label1
+            // buttonPush
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(33, 20);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(29, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "URL";
-            // 
-            // textURL
-            // 
-            this.textURL.Location = new System.Drawing.Point(68, 17);
-            this.textURL.Name = "textURL";
-            this.textURL.Size = new System.Drawing.Size(163, 20);
-            this.textURL.TabIndex = 1;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 46);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Contenido";
-            // 
-            // textContenido
-            // 
-            this.textContenido.Location = new System.Drawing.Point(68, 43);
-            this.textContenido.Name = "textContenido";
-            this.textContenido.Size = new System.Drawing.Size(163, 20);
-            this.textContenido.TabIndex = 3;
+            this.buttonPush.Location = new System.Drawing.Point(68, 92);
+            this.buttonPush.Name = "buttonPush";
+            this.buttonPush.Size = new System.Drawing.Size(116, 23);
+            this.buttonPush.TabIndex = 5;
+            this.buttonPush.Text = "Visitar pagina";
+            this.buttonPush.UseVisualStyleBackColor = true;
+            this.buttonPush.Click += new System.EventHandler(this.buttonPush_Click);
             // 
             // checkSSL
             // 
@@ -98,15 +76,37 @@
             this.checkSSL.Text = "Tiene SSL?";
             this.checkSSL.UseVisualStyleBackColor = true;
             // 
-            // buttonPush
+            // textContenido
             // 
-            this.buttonPush.Location = new System.Drawing.Point(68, 92);
-            this.buttonPush.Name = "buttonPush";
-            this.buttonPush.Size = new System.Drawing.Size(116, 23);
-            this.buttonPush.TabIndex = 5;
-            this.buttonPush.Text = "Visitar pagina";
-            this.buttonPush.UseVisualStyleBackColor = true;
-            this.buttonPush.Click += new System.EventHandler(this.buttonPush_Click);
+            this.textContenido.Location = new System.Drawing.Point(68, 43);
+            this.textContenido.Name = "textContenido";
+            this.textContenido.Size = new System.Drawing.Size(163, 20);
+            this.textContenido.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(7, 46);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(55, 13);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Contenido";
+            // 
+            // textURL
+            // 
+            this.textURL.Location = new System.Drawing.Point(68, 17);
+            this.textURL.Name = "textURL";
+            this.textURL.Size = new System.Drawing.Size(163, 20);
+            this.textURL.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(33, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(29, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "URL";
             // 
             // textNavUrl
             // 
@@ -131,6 +131,7 @@
             this.buttonPop.TabIndex = 3;
             this.buttonPop.Text = "< Atras";
             this.buttonPop.UseVisualStyleBackColor = true;
+            this.buttonPop.Click += new System.EventHandler(this.buttonPop_Click);
             // 
             // FormPrincipal
             // 
