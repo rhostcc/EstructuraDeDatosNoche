@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppCola.interfaces
 {
-    internal interface ICola<T>
+    public interface ICola<T>
     {
         void Enqueue(T elemento);
         T Dequeue();

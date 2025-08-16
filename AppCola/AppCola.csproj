@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,13 +46,36 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clases\Cola.cs" />
+    <Compile Include="clases\Documento.cs" />
+    <Compile Include="clases\TipoDocumento.cs" />
+    <Compile Include="formularios\FormDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FormDocumento.Designer.cs">
+      <DependentUpon>FormDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FormInicio.Designer.cs">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </Compile>
     <Compile Include="interfaces\ICola.cs" />
+    <Compile Include="interfaces\IDocumento.cs" />
+    <Compile Include="interfaces\ITipoDocumento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="formularios\FormDocumento.resx">
+      <DependentUpon>FormDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FormInicio.resx">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

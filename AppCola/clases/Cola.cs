@@ -7,7 +7,7 @@ using AppCola.interfaces;
 
 namespace AppCola.clases
 {
-    internal class Cola<T> : ICola<T>
+    public class Cola<T> : ICola<T>
     {
         private T[] _elementos;
         private int _inicio;

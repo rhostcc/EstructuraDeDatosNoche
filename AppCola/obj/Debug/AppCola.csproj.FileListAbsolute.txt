@@ -1,0 +1,10 @@
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\bin\Debug\AppCola.exe.config
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\bin\Debug\AppCola.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\bin\Debug\AppCola.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.formularios.FormInicio.resources
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppCola\obj\Debug\AppCola.formularios.FormDocumento.resources
