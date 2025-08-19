@@ -26,19 +26,39 @@ namespace AppCola.formularios
             dataGridView1.Columns.Add("Tamano", "Tamano");
             dataGridView1.AllowUserToAddRows = false;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            ActualizarCantidad();
         }
 
         private void nuevoDocumentoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new FormDocumento().ShowDialog();
             colaDeImpresion.Enqueue(NuevoDocumento);
-            ActualizarDGV();
+            ActualizarDGV(TipoDGV.Incrementar);
+            ActualizarCantidad();
         }
-        public void ActualizarDGV()
+        public enum TipoDGV
         {
-            //Documento temp = this.colaDeImpresion.Peek();
-            dataGridView1.Rows.Add(NuevoDocumento.Nombre, NuevoDocumento.CantidadPaginas
+            Incrementar,
+            Decrementar
+        }
+        public void ActualizarDGV(TipoDGV tipo)
+        {
+            if(tipo == TipoDGV.Incrementar)
+                dataGridView1.Rows.Add(NuevoDocumento.Nombre, NuevoDocumento.CantidadPaginas
                 , NuevoDocumento.Tipo.Extension, NuevoDocumento.FechaInicio, NuevoDocumento.Tamano);
+            else
+                dataGridView1.Rows.RemoveAt(0);
+        }
+        public void ActualizarCantidad()
+        {
+            labelCantidad.Text = $"{this.colaDeImpresion.Count()}/{this.colaDeImpresion.Size()}";
+        }
+
+        private void imprimirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.colaDeImpresion.Dequeue();
+            ActualizarDGV(TipoDGV.Decrementar);
+            ActualizarCantidad();
         }
     }
 }

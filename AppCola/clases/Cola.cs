@@ -26,6 +26,10 @@ namespace AppCola.clases
         {
             return this._cantidad;
         }
+        public int Size()
+        {
+            return this._total;
+        }
 
         public T Dequeue()
         {

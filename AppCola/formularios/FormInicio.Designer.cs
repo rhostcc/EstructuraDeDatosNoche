@@ -37,7 +37,7 @@
             this.tipoDeDocumentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nuevoTipoDeDocumentoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelCantidad = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -68,11 +68,12 @@
             this.imprimirToolStripMenuItem.Name = "imprimirToolStripMenuItem";
             this.imprimirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.imprimirToolStripMenuItem.Text = "Imprimir";
+            this.imprimirToolStripMenuItem.Click += new System.EventHandler(this.imprimirToolStripMenuItem_Click);
             // 
             // cancelarToolStripMenuItem
             // 
             this.cancelarToolStripMenuItem.Name = "cancelarToolStripMenuItem";
-            this.cancelarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cancelarToolStripMenuItem.Size = new System.Drawing.Size(120, 22);
             this.cancelarToolStripMenuItem.Text = "Cancelar";
             // 
             // documentoToolStripMenuItem
@@ -86,7 +87,7 @@
             // nuevoDocumentoToolStripMenuItem
             // 
             this.nuevoDocumentoToolStripMenuItem.Name = "nuevoDocumentoToolStripMenuItem";
-            this.nuevoDocumentoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.nuevoDocumentoToolStripMenuItem.Size = new System.Drawing.Size(174, 22);
             this.nuevoDocumentoToolStripMenuItem.Text = "Nuevo documento";
             this.nuevoDocumentoToolStripMenuItem.Click += new System.EventHandler(this.nuevoDocumentoToolStripMenuItem_Click);
             // 
@@ -112,22 +113,22 @@
             this.dataGridView1.Size = new System.Drawing.Size(655, 171);
             this.dataGridView1.TabIndex = 1;
             // 
-            // label1
+            // labelCantidad
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(631, 201);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.labelCantidad.AutoSize = true;
+            this.labelCantidad.Location = new System.Drawing.Point(631, 201);
+            this.labelCantidad.Name = "labelCantidad";
+            this.labelCantidad.Size = new System.Drawing.Size(25, 13);
+            this.labelCantidad.TabIndex = 2;
+            this.labelCantidad.Text = "111";
+            this.labelCantidad.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // FormInicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(678, 223);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.labelCantidad);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -151,7 +152,7 @@
         private System.Windows.Forms.ToolStripMenuItem tipoDeDocumentoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem nuevoTipoDeDocumentoToolStripMenuItem;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelCantidad;
         private System.Windows.Forms.ToolStripMenuItem cancelarToolStripMenuItem;
     }
 }

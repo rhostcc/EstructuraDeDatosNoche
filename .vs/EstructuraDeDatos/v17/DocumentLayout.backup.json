@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\appcola\\formularios\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\formularios\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\formularios\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\formularios\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\clases\\nodosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\clases\\nodosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\formularios\\formdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\formularios\\formdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\formularios\\formdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\formularios\\formdocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\clases\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\clases\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\interfaces\\icola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\interfaces\\icola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\appcola\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{479655EF-E6A5-4096-B8E9-D4344A82125C}|AppCola\\AppCola.csproj|solutionrelative:appcola\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\interfaces\\ilistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\interfaces\\ilistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,87 +51,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormInicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormInicio.cs",
-              "RelativeDocumentMoniker": "AppCola\\formularios\\FormInicio.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormInicio.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "AppCola\\formularios\\FormInicio.cs [Dise\u00F1o]*",
+              "Title": "NodoSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\NodoSimple.cs",
+              "RelativeDocumentMoniker": "AppListaSimple\\clases\\NodoSimple.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\NodoSimple.cs",
+              "RelativeToolTip": "AppListaSimple\\clases\\NodoSimple.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:48:34.773Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Documento.cs",
-              "RelativeDocumentMoniker": "AppCola\\clases\\Documento.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Documento.cs",
-              "RelativeToolTip": "AppCola\\clases\\Documento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:37:14.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormDocumento.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormDocumento.cs",
-              "RelativeDocumentMoniker": "AppCola\\formularios\\FormDocumento.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormDocumento.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AppCola\\formularios\\FormDocumento.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:36:36.315Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cola.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Cola.cs",
-              "RelativeDocumentMoniker": "AppCola\\clases\\Cola.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\clases\\Cola.cs",
-              "RelativeToolTip": "AppCola\\clases\\Cola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:35:03.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICola.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\interfaces\\ICola.cs",
-              "RelativeDocumentMoniker": "AppCola\\interfaces\\ICola.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\interfaces\\ICola.cs",
-              "RelativeToolTip": "AppCola\\interfaces\\ICola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:35:09.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormDocumento.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormDocumento.cs",
-              "RelativeDocumentMoniker": "AppCola\\formularios\\FormDocumento.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormDocumento.cs",
-              "RelativeToolTip": "AppCola\\formularios\\FormDocumento.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwB4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:13:21.932Z",
+              "WhenOpened": "2025-08-19T01:39:29.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormInicio.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormInicio.cs",
-              "RelativeDocumentMoniker": "AppCola\\formularios\\FormInicio.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppCola\\formularios\\FormInicio.cs*",
-              "RelativeToolTip": "AppCola\\formularios\\FormInicio.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAABSAAAAAAAAAA==",
+              "Title": "ListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\ListaSimple.cs",
+              "RelativeDocumentMoniker": "AppListaSimple\\clases\\ListaSimple.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\ListaSimple.cs",
+              "RelativeToolTip": "AppListaSimple\\clases\\ListaSimple.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:03:22.313Z",
+              "WhenOpened": "2025-08-19T01:38:23.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\interfaces\\IListaSimple.cs",
+              "RelativeDocumentMoniker": "AppListaSimple\\interfaces\\IListaSimple.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\interfaces\\IListaSimple.cs",
+              "RelativeToolTip": "AppListaSimple\\interfaces\\IListaSimple.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:24:06.873Z",
               "EditorCaption": ""
             }
           ]
