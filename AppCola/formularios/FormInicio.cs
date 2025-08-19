@@ -25,12 +25,20 @@ namespace AppCola.formularios
             dataGridView1.Columns.Add("Fecha inicio", "Fecha de inicio");
             dataGridView1.Columns.Add("Tamano", "Tamano");
             dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
         }
 
         private void nuevoDocumentoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new FormDocumento().ShowDialog();
             colaDeImpresion.Enqueue(NuevoDocumento);
+            ActualizarDGV();
+        }
+        public void ActualizarDGV()
+        {
+            //Documento temp = this.colaDeImpresion.Peek();
+            dataGridView1.Rows.Add(NuevoDocumento.Nombre, NuevoDocumento.CantidadPaginas
+                , NuevoDocumento.Tipo.Extension, NuevoDocumento.FechaInicio, NuevoDocumento.Tamano);
         }
     }
 }
