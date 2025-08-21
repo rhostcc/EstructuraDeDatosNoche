@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistasimple\\interfaces\\ilistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EA385A-DC42-4AF2-A578-56B157FD666A}|AppListaSimple\\AppListaSimple.csproj|solutionrelative:applistasimple\\interfaces\\ilistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,26 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "IListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\interfaces\\IListaSimple.cs",
+              "RelativeDocumentMoniker": "AppListaSimple\\interfaces\\IListaSimple.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\interfaces\\IListaSimple.cs",
+              "RelativeToolTip": "AppListaSimple\\interfaces\\IListaSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:31:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\Program.cs",
               "RelativeDocumentMoniker": "AppListaSimple\\Program.cs",
               "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\Program.cs",
               "RelativeToolTip": "AppListaSimple\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T00:18:11.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ListaSimple.cs",
               "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\ListaSimple.cs",
               "RelativeDocumentMoniker": "AppListaSimple\\clases\\ListaSimple.cs",
               "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaSimple\\clases\\ListaSimple.cs",
               "RelativeToolTip": "AppListaSimple\\clases\\ListaSimple.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwF4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T01:38:23.207Z",
               "EditorCaption": ""
