@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clases\ListaCircular.cs" />
     <Compile Include="clases\ListaSimple.cs" />
+    <Compile Include="clases\NodoCircular.cs" />
     <Compile Include="clases\NodoSimple.cs" />
     <Compile Include="interfaces\IListaSimple.cs" />
     <Compile Include="Program.cs" />
