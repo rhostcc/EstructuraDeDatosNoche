@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCola", "AppCola\AppCola.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppListaSimple", "AppListaSimple\AppListaSimple.csproj", "{16EA385A-DC42-4AF2-A578-56B157FD666A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppListaDoble", "AppListaDoble\AppListaDoble.csproj", "{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{16EA385A-DC42-4AF2-A578-56B157FD666A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16EA385A-DC42-4AF2-A578-56B157FD666A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16EA385A-DC42-4AF2-A578-56B157FD666A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

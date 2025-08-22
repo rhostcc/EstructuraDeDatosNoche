@@ -91,7 +91,61 @@ namespace AppListaSimple.clases
 
         public T RemoveAt(int index)
         {
-            throw new NotImplementedException();
+            T value;
+            NodoCircular<T> temp;
+            if (index < 0 || index >= this._count)
+                throw new IndexOutOfRangeException("Indice incorrecto");
+
+            if (IsEmpty())
+            {
+                throw new IndexOutOfRangeException("Lista vacia");
+            }
+
+            if (Count() == 1)
+            {
+                value = this._last.Value;
+                Clear();
+                return value;
+            }
+
+            // Eliminar al inicio
+            if(index == 0)
+            {
+                value = this._last.Next.Value;
+                this._last.Next = this._last.Next.Next;
+                this._count--;
+                return value;
+            }
+
+            // Eliminar en medio
+            if(index < Count() - 1)
+            {
+                temp = this._last.Next;
+                int currentIndex = 0;
+                while (currentIndex < index - 1)
+                {
+                    temp = temp.Next;
+                    currentIndex++;
+                }
+                value = temp.Next.Value;
+                temp.Next = temp.Next.Next;
+                this._count--;
+                return value;
+            }
+
+
+
+            // Eliminar al final
+            value = this._last.Value;
+            temp = this._last.Next;
+            while (temp.Next != this._last)
+            {
+                temp = temp.Next;
+            }
+            temp.Next = temp.Next.Next;
+            this._last = temp;
+            this._count--;
+            return value;
         }
 
         public void UpdateAt(int index, T element)
