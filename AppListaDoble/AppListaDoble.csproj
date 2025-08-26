@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clases\ListaDoble.cs" />
+    <Compile Include="clases\ListaDobleCircular.cs" />
     <Compile Include="clases\NodoDoble.cs" />
     <Compile Include="clases\NodoDobleCircular.cs" />
     <Compile Include="interfaces\IListaDoble.cs" />
