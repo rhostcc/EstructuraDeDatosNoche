@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using AppListaDoble.interfaces;
@@ -100,6 +101,7 @@ namespace AppListaDoble.clases
 
         public T RemoveAt(int index)
         {
+            T value;
             if (index < 0 || index > this._count - 1)
                 throw new IndexOutOfRangeException("Indice incorrecto");
 
@@ -112,15 +114,63 @@ namespace AppListaDoble.clases
             // Eliminar Inicio
             if(Count() == 1)
             {
-                T value = this._first.Value;
+                value = this._first.Value;
                 Clear();
                 return value;
             }
+
+            if(index == 0)
+            {
+                value = this._first.Value;
+                this._first = this._first.Next;
+                this._first.Preview = null;
+                this._count--;
+                return value;
+            }
+
+            // Eliminar en medio
+            if(index > 0 && index < Count() - 1)
+            {
+                int currentIndex = 0;
+                NodoDoble<T> temp = this._first;
+                while(currentIndex != index)
+                {
+                    temp = temp.Next;
+                    currentIndex++;
+                }
+                temp.Preview.Next = temp.Next;
+                temp.Next.Preview = temp.Preview;
+                this._count--;
+                return temp.Value;
+            }
+
+            //if(index == Count() - 1)
+            //{
+            value = this._last.Value;
+            this._last = this._last.Preview;
+            this._last.Next = null;
+            this._count--;
+            return value;
+            //}
         }
 
         public void UpdateAt(int index, T element)
         {
-            throw new NotImplementedException();
+            if (index < 0 || index > this._count - 1)
+                throw new IndexOutOfRangeException("Indice incorrecto");
+
+            if (IsEmpty())
+            {
+                throw new IndexOutOfRangeException("Lista vacia");
+            }
+            int currentIndex = 0;
+            NodoDoble<T> temp = this._first;
+            while(currentIndex != index)
+            {
+                temp = temp.Next;
+                currentIndex++;
+            }
+            temp.Value = element;
         }
     }
 }

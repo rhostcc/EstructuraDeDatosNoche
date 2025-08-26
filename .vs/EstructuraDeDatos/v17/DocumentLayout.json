@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\clases\\nododoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\nododoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +43,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "AppListaDoble\\clases\\NodoDoble.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDoble.cs",
+              "RelativeToolTip": "AppListaDoble\\clases\\NodoDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:20:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NodoDobleCircular.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDobleCircular.cs",
+              "RelativeDocumentMoniker": "AppListaDoble\\clases\\NodoDobleCircular.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDobleCircular.cs",
+              "RelativeToolTip": "AppListaDoble\\clases\\NodoDobleCircular.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:20:12.082Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\obj\Debug\AppListaDoble.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\obj\Debug\AppListaDoble.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\bin\Debug\AppListaDoble.exe.config
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\bin\Debug\AppListaDoble.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\bin\Debug\AppListaDoble.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\obj\Debug\AppListaDoble.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppListaDoble\obj\Debug\AppListaDoble.pdb

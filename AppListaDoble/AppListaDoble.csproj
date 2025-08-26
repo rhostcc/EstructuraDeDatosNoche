@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="clases\ListaDoble.cs" />
     <Compile Include="clases\NodoDoble.cs" />
+    <Compile Include="clases\NodoDobleCircular.cs" />
     <Compile Include="interfaces\IListaDoble.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
