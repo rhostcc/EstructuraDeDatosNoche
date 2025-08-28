@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppListaSimple", "AppListaS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppListaDoble", "AppListaDoble\AppListaDoble.csproj", "{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppArbolGeneral", "AppArbolGeneral\AppArbolGeneral.csproj", "{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

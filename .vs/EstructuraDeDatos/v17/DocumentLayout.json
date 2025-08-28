@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\clases\\listadoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\listadoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apparbolgeneral\\clases\\arbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|solutionrelative:apparbolgeneral\\clases\\arbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apparbolgeneral\\interfaces\\iarbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|solutionrelative:apparbolgeneral\\interfaces\\iarbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apparbolgeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|solutionrelative:apparbolgeneral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\applistadoble\\clases\\nododoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\nododoblecircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\applistadoble\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2570F0E-B371-4414-8FA0-DEDA3F0DCBD8}|AppListaDoble\\AppListaDoble.csproj|solutionrelative:applistadoble\\clases\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|c:\\users\\toshiba\\source\\repos\\estructuradedatos\\apparbolgeneral\\clases\\nodogeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92057DF-5CDB-40BF-9E3B-EA39F7282C72}|AppArbolGeneral\\AppArbolGeneral.csproj|solutionrelative:apparbolgeneral\\clases\\nodogeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,66 +54,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListaDoble.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\ListaDoble.cs",
-              "RelativeDocumentMoniker": "AppListaDoble\\clases\\ListaDoble.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\ListaDoble.cs",
-              "RelativeToolTip": "AppListaDoble\\clases\\ListaDoble.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAmwIUAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\Program.cs",
+              "RelativeDocumentMoniker": "AppArbolGeneral\\Program.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\Program.cs",
+              "RelativeToolTip": "AppArbolGeneral\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:27:51.192Z",
+              "WhenOpened": "2025-08-28T01:19:27.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\Program.cs",
-              "RelativeDocumentMoniker": "AppListaDoble\\Program.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\Program.cs",
-              "RelativeToolTip": "AppListaDoble\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBUAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IArbolGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\interfaces\\IArbolGeneral.cs",
+              "RelativeDocumentMoniker": "AppArbolGeneral\\interfaces\\IArbolGeneral.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\interfaces\\IArbolGeneral.cs",
+              "RelativeToolTip": "AppArbolGeneral\\interfaces\\IArbolGeneral.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T01:20:46.125Z",
+              "WhenOpened": "2025-08-27T23:43:50.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListaDobleCircular.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\ListaDobleCircular.cs",
-              "RelativeDocumentMoniker": "AppListaDoble\\clases\\ListaDobleCircular.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\ListaDobleCircular.cs",
-              "RelativeToolTip": "AppListaDoble\\clases\\ListaDobleCircular.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAgwI8AAAAZAAAAAAAAAA==",
+              "Title": "ArbolGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\clases\\ArbolGeneral.cs",
+              "RelativeDocumentMoniker": "AppArbolGeneral\\clases\\ArbolGeneral.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\clases\\ArbolGeneral.cs",
+              "RelativeToolTip": "AppArbolGeneral\\clases\\ArbolGeneral.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAIA9wFkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:27:10.255Z",
+              "WhenOpened": "2025-08-27T23:43:43.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NodoDoble.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDoble.cs",
-              "RelativeDocumentMoniker": "AppListaDoble\\clases\\NodoDoble.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDoble.cs",
-              "RelativeToolTip": "AppListaDoble\\clases\\NodoDoble.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:20:15.226Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NodoDobleCircular.cs",
-              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDobleCircular.cs",
-              "RelativeDocumentMoniker": "AppListaDoble\\clases\\NodoDobleCircular.cs",
-              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppListaDoble\\clases\\NodoDobleCircular.cs",
-              "RelativeToolTip": "AppListaDoble\\clases\\NodoDobleCircular.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Title": "NodoGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\clases\\NodoGeneral.cs",
+              "RelativeDocumentMoniker": "AppArbolGeneral\\clases\\NodoGeneral.cs",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\EstructuraDeDatos\\AppArbolGeneral\\clases\\NodoGeneral.cs",
+              "RelativeToolTip": "AppArbolGeneral\\clases\\NodoGeneral.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T00:20:12.082Z",
+              "WhenOpened": "2025-08-27T23:43:36.781Z",
               "EditorCaption": ""
             }
           ]

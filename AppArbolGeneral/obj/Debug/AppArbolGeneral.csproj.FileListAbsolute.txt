@@ -1,0 +1,7 @@
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\AppArbolGeneral.exe.config
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\AppArbolGeneral.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\bin\Debug\AppArbolGeneral.pdb
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\AppArbolGeneral.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\AppArbolGeneral.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\AppArbolGeneral.exe
+C:\Users\Toshiba\source\repos\EstructuraDeDatos\AppArbolGeneral\obj\Debug\AppArbolGeneral.pdb
